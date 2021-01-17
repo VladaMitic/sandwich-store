@@ -1,0 +1,57 @@
+[
+    {
+        "id": "0",
+        "sandwichName": "Beef Burger",
+        "image": "beef-bacon.jpg",
+        "meat": "minced beef",
+        "bread": "wholemeal bun with sesame",
+        "salad": "green salad",
+        "side": "bacon and cheese",
+        "price": "4,00",
+        "description": "A huge burger of pure beef meat. It is prepared from selected parts of the beef, mixed with secret spices and lightly smoked on the grill. Plus, crispy bacon and stretchy cheese !!! who can resist."
+    },
+    {
+        "id": "1",
+        "sandwichName": "Beff Sandwich",
+        "image": "beef-cabbage.jpg",
+        "meat": "Chopped beef",
+        "bread": "rye bread",
+        "salad": "purple cabbage",
+        "side": "mustard",
+        "price": "3,50",
+        "description": "Imagine the highest quality piece of young beef that is seasoned with spices and then slow cooked for more than 10 hours in a clay pot. Our chefs finely minced this piece of beef for you, then stuffed it with handmade rye bread with a light coating of mustard, with the addition of fresh crispy purple cabbage. You must afford this healthy, delicious and fresh meal for yourself and your family. According to our customers, this is our best and most affordable sandwich, so don't hesitate, try it !!!"
+    },
+    {
+        "id": "2",
+        "sandwichName": "Classic Burger",
+        "image": "beef-potato.jpg",
+        "meat": "minced beef",
+        "bread": "white bun",
+        "salad": "green salad",
+        "side": "French fry",
+        "price": "2,00",
+        "description": "A classic beef burger is simple and perfect and so much better than anything you can buy. Plus, you can top it with whatever you like! A jazzy way to spice up the boring basic burger that will tantalize your taste buds! Cajun spiced mayonnaise is the perfect complement to these spicy beef burgers. And you get Frech fry as a clasic dish that goes with classic burger"
+    },
+    {
+        "id": "3",
+        "sandwichName": "Egg avocado",
+        "image": "egg-avocado.jpg",
+        "meat": "boiled egg",
+        "bread": "wholemeal sliced",
+        "salad": "avocado",
+        "side": "pomegranate",
+        "price": "4,50",
+        "description": "Restaurant-style breakfast sandwich at home! It's quick, easy and delicious! The sliced avocado is what makes this sandwich pop and gives it a unique flavor. It is chock-full of protein, as well, so this sandwich will keep you full until lunchtime."
+    },
+    {
+        "id": "4",
+        "sandwichName": "Vegan",
+        "image": "vegan.jpg",
+        "meat": "No!!!",
+        "bread": "rye bread",
+        "salad": "tomato",
+        "side": "hummus and seeds",
+        "price": "2,00",
+        "description": "This Vegan Veggie Sandwich is a scrumptious, 10-ingredient, vegan sandwich with multigrain bread, hummus, avocado, a ton of fresh produce, and pumpkin seeds. This carnivore-approved recipe proves that you don’t need faux meat products to enjoy a vegan, vegetarian sandwich"
+    }
+]
